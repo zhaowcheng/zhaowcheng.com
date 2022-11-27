@@ -8,4 +8,4 @@ python3 ./tool/csvpv2jsonpv.py ./data/pageviews.csv ./data/pageviews.json
 git add .
 git commit -m "update `date --date="yesterday" +"%Y-%m-%d"` pageviews"
 git push
-ln -sf $TOOLDIR/../data/pageviews.json /var/www/blog.zhaowcheng.com/_site/pageviews.json
+ln -sfv $TOOLDIR/../data/pageviews.json /var/www/blog.zhaowcheng.com/_site/pageviews.json
