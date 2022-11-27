@@ -2,31 +2,31 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "10"
+      "12"
     ],
     [
       "/posts/sed-examples/",
-      "10"
+      "12"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "5"
+      "6"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "5"
+      "6"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "5"
+      "6"
     ],
     [
       "/resume.pdf",
-      "5"
+      "6"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "5"
+      "6"
     ]
   ]
 }
