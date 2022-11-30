@@ -6,11 +6,11 @@
     ],
     [
       "/posts/sed-examples/",
-      "12"
+      "13"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "4"
+      "6"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -18,7 +18,7 @@
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "1"
+      "3"
     ],
     [
       "/resume.pdf",
@@ -50,7 +50,7 @@
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "2"
+      "3"
     ],
     [
       "/posts/python-tutorial-4-string/",
@@ -62,11 +62,15 @@
     ],
     [
       "/posts/date-examples/",
-      "8"
+      "9"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "2"
+      "3"
+    ],
+    [
+      "/posts/python-tutorial-5-list-and-tuple/",
+      "1"
     ]
   ]
 }
