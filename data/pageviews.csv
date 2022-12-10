@@ -281,3 +281,5 @@ ip,location,time,path,referer,log
 "
 207.46.13.72,美国 - 华盛顿州 - 昆西,09/Dec/2022:22:48:14,/posts/python-tutorial-8-function-definition/,-,"207.46.13.72 - - [09/Dec/2022:22:48:14 +0800] ""GET /posts/python-tutorial-8-function-definition/ HTTP/1.1"" 404 134 ""-"" ""Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)""
 "
+115.238.33.146,中国 - 浙江省 - 杭州,10/Dec/2022:11:34:56,/posts/a-packaging-method-with-its-own-deps/,https://www.google.com.hk/,"115.238.33.146 - - [10/Dec/2022:11:34:56 +0800] ""GET /posts/a-packaging-method-with-its-own-deps/ HTTP/1.1"" 200 11247 ""https://www.google.com.hk/"" ""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36""
+"
