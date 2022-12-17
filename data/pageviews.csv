@@ -391,3 +391,7 @@ ip,location,time,path,referer,log
 "
 114.119.145.150,新加坡 - North West - 新加坡,16/Dec/2022:23:19:35,/posts/classification-of-chinese-os-and-cpu/,-,"114.119.145.150 - - [16/Dec/2022:23:19:35 +0800] ""GET /posts/classification-of-chinese-os-and-cpu/ HTTP/1.1"" 200 8250 ""-"" ""Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)""
 "
+114.119.134.165,新加坡 - North West - 新加坡,17/Dec/2022:05:35:58,/posts/date-examples/,-,"114.119.134.165 - - [17/Dec/2022:05:35:58 +0800] ""GET /posts/date-examples/ HTTP/1.1"" 200 7198 ""-"" ""Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)""
+"
+66.249.68.11,美国 - 加州 - 芒廷维尤,17/Dec/2022:05:53:30,/posts/python-tutorial-6-dict-and-set/,-,"66.249.68.11 - - [17/Dec/2022:05:53:30 +0800] ""GET /posts/python-tutorial-6-dict-and-set/ HTTP/1.1"" 404 134 ""-"" ""Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)""
+"
