@@ -2,11 +2,11 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "21"
+      "22"
     ],
     [
       "/posts/sed-examples/",
-      "24"
+      "25"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
@@ -14,11 +14,11 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "28"
+      "29"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "5"
+      "6"
     ],
     [
       "/resume.pdf",
@@ -34,7 +34,7 @@
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "4"
+      "5"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "8"
+      "9"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -74,11 +74,11 @@
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "5"
+      "6"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "3"
+      "5"
     ]
   ]
 }
