@@ -2,7 +2,7 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "22"
+      "23"
     ],
     [
       "/posts/sed-examples/",
@@ -14,11 +14,11 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "29"
+      "32"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "6"
+      "7"
     ],
     [
       "/resume.pdf",
@@ -30,23 +30,23 @@
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "7"
+      "9"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "5"
+      "7"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "9"
+      "10"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "9"
+      "10"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "9"
+      "10"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -54,7 +54,7 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "7"
+      "8"
     ],
     [
       "/posts/introduction-to-fpm/",
@@ -62,7 +62,7 @@
     ],
     [
       "/posts/date-examples/",
-      "24"
+      "28"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -70,15 +70,15 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "8"
+      "9"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "6"
+      "9"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "5"
+      "6"
     ]
   ]
 }
