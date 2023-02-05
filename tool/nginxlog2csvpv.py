@@ -30,6 +30,17 @@ def get_iploc_from_ipapi(ip):
     return '%s - %s - %s' % (data['country'], data['regionName'], data['city'])
 
 
+def get_iploc_from_useragentinfo(ip):
+    resp = requests.get('https://ip.useragentinfo.com/json?ip=' + ip)
+    if resp.status_code != 200:
+        raise requests.HTTPError(resp.status_code)
+    else:
+        if resp.json()['desc'] != 'success':
+            raise Exception(resp.json()['message'])
+    data = resp.json()
+    return '%s - %s - %s' % (data['country'], data['province'], data['city'])
+
+
 if len(sys.argv) != 3:
     print('Usage: %s <nginx_log> <output_csv>' % sys.argv[0])
     sys.exit(1)
@@ -49,7 +60,7 @@ with openfunc(nginx_log) as fp:
             path = segs[6]
             referer = segs[10].replace('"', '')
             print('Processing: %s "%s"' % (ip, m.group(0)))
-            location = get_iploc_from_ipapi(ip)
+            location = get_iploc_from_useragentinfo(ip)
             rows.append({
                 'ip': ip, 
                 'location': location, 
