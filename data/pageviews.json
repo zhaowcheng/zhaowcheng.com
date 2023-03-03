@@ -2,15 +2,15 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "57"
+      "58"
     ],
     [
       "/posts/sed-examples/",
-      "108"
+      "110"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "236"
+      "239"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -22,7 +22,7 @@
     ],
     [
       "/resume.pdf",
-      "19"
+      "20"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -34,7 +34,7 @@
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "15"
+      "16"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
