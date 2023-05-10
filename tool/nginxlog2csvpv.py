@@ -4,6 +4,7 @@ import sys
 import re
 import gzip
 import csv
+import json
 
 import requests
 
@@ -31,13 +32,12 @@ def get_iploc_from_ipapi(ip):
 
 
 def get_iploc_from_useragentinfo(ip):
-    resp = requests.get('https://ip.useragentinfo.com/json?ip=' + ip)
+    resp = requests.get('https://ip.useragentinfo.com/jsonp?ip=' + ip)
     if resp.status_code != 200:
         raise requests.HTTPError(resp.status_code)
-    else:
-        if resp.json()['desc'] != 'success':
-            raise Exception(resp.json()['message'])
-    data = resp.json()
+    data = json.loads(resp.text[9:-2])  # 去除 text 中开头的 'callback(' 和结尾的 ');'
+    if data['desc'] != 'success':
+        raise Exception(data['message'])
     return '%s - %s - %s' % (data['country'], data['province'], data['city'])
 
 
