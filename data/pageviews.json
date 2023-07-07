@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "83"
+      "85"
     ],
     [
       "/posts/sed-examples/",
-      "404"
+      "411"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "511"
+      "512"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "296"
+      "297"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "149"
+      "151"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -50,7 +50,7 @@
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "41"
+      "42"
     ],
     [
       "/posts/python-tutorial-4-string/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "217"
+      "218"
     ],
     [
       "/posts/date-examples/",
-      "266"
+      "270"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -74,7 +74,7 @@
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "32"
+      "33"
     ],
     [
       "/posts/python-tutorial-11-classes/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "108"
+      "110"
     ]
   ]
 }
