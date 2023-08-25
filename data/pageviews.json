@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "632"
+      "634"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "644"
+      "646"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "421"
+      "423"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,11 +22,11 @@
     ],
     [
       "/resume.pdf",
-      "63"
+      "64"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "210"
+      "211"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -34,7 +34,7 @@
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "55"
+      "56"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "126"
+      "128"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -50,31 +50,31 @@
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "49"
+      "50"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "71"
+      "73"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "323"
+      "326"
     ],
     [
       "/posts/date-examples/",
-      "421"
+      "423"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "47"
+      "48"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "36"
+      "37"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "44"
+      "45"
     ],
     [
       "/posts/python-tutorial-11-classes/",
@@ -90,10 +90,14 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "203"
+      "205"
     ],
     [
       "/posts/python-tutorial-4-string/?",
+      "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/wrs_env.js",
       "1"
     ]
   ]
