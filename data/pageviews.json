@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "113"
+      "116"
     ],
     [
       "/posts/sed-examples/",
-      "649"
+      "654"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "667"
+      "680"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "435"
+      "436"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "135"
+      "138"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "342"
+      "343"
     ],
     [
       "/posts/date-examples/",
@@ -98,6 +98,18 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/wrs_env.js",
+      "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/assets/js/dist/pvreport.min.js",
+      "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/assets/js/dist/post.min.js",
+      "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/app.js",
       "1"
     ]
   ]
