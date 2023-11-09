@@ -41,6 +41,14 @@ def get_iploc_from_useragentinfo(ip):
     return '%s - %s - %s' % (data['country'], data['province'], data['city'])
 
 
+def get_iploc_from_ipinfoio(ip):
+    resp = requests.get('http://ipinfo.io/%s?token=3bd97d942cf1ad' % ip)
+    if resp.status_code != 200:
+        raise requests.HTTPError(resp.status_code)
+    data = resp.json()
+    return '%s - %s - %s' % (data['country'], data['region'], data['city'])
+
+
 if len(sys.argv) != 3:
     print('Usage: %s <nginx_log> <output_csv>' % sys.argv[0])
     sys.exit(1)
@@ -60,7 +68,7 @@ with openfunc(nginx_log) as fp:
             path = segs[6]
             referer = segs[10].replace('"', '')
             print('Processing: %s "%s"' % (ip, m.group(0)))
-            location = get_iploc_from_useragentinfo(ip)
+            location = get_iploc_from_ipinfoio(ip)
             rows.append({
                 'ip': ip, 
                 'location': location, 
@@ -75,3 +83,4 @@ with open(output_csv, 'a+') as f:
     writer.writerows(rows)
 
 print('write to %s success.' % output_csv)
+
