@@ -9,7 +9,7 @@ mv access.log $ARCHLOGNAME
 kill -USR1 `cat /var/run/nginx.pid`
 sleep 1
 python3 $TOOLDIR/nginxlog2csvpv.py $NGINXLOGDIR/$ARCHLOGNAME $TOOLDIR/../data/pageviews.csv
-gzip $ARCHLOGNAME
+gzip -f $ARCHLOGNAME
 
 cd $TOOLDIR/..
 python3 ./tool/csvpv2jsonpv.py ./data/pageviews.csv ./data/pageviews.json
