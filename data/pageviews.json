@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "156"
+      "157"
     ],
     [
       "/posts/sed-examples/",
-      "818"
+      "819"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "917"
+      "920"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "586"
+      "588"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,11 +26,11 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "287"
+      "289"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "95"
+      "99"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "165"
+      "166"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "477"
+      "478"
     ],
     [
       "/posts/date-examples/",
-      "546"
+      "547"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "314"
+      "315"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -119,6 +119,14 @@
     [
       "/posts/a-packaging-method-with-its-own-deps/,14.145.25.198",
       "6"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/,123.6.49.18",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-2-install-and-usage/,27.115.124.101",
+      "1"
     ]
   ]
 }
