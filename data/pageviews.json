@@ -2,7 +2,7 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "163"
+      "167"
     ],
     [
       "/posts/sed-examples/",
@@ -10,11 +10,11 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "962"
+      "971"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "602"
+      "609"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "493"
+      "496"
     ],
     [
       "/posts/date-examples/",
-      "551"
+      "552"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -126,6 +126,10 @@
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/,27.115.124.101",
+      "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/,114.222.195.138",
       "1"
     ]
   ]
