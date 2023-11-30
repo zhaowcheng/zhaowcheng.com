@@ -6,11 +6,11 @@
     ],
     [
       "/posts/sed-examples/",
-      "834"
+      "837"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "971"
+      "979"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -18,11 +18,11 @@
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "93"
+      "94"
     ],
     [
       "/resume.pdf",
-      "99"
+      "100"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -130,6 +130,10 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/,114.222.195.138",
+      "1"
+    ],
+    [
+      "/posts/introduction-to-fpm/,173",
       "1"
     ]
   ]
