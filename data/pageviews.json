@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "843"
+      "845"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1020"
+      "1026"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "620"
+      "622"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,11 +22,11 @@
     ],
     [
       "/resume.pdf",
-      "103"
+      "104"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "301"
+      "302"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -34,7 +34,7 @@
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "64"
+      "66"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "503"
+      "504"
     ],
     [
       "/posts/date-examples/",
-      "555"
+      "559"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -74,7 +74,7 @@
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "51"
+      "52"
     ],
     [
       "/posts/python-tutorial-11-classes/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "323"
+      "324"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -134,6 +134,18 @@
     ],
     [
       "/posts/introduction-to-fpm/,173",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/,67.230.181.163",
+      "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/,67.230.181.163",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-7-flow-control/,223.93.159.82",
       "1"
     ]
   ]
