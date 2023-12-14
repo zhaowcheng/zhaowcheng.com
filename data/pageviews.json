@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "860"
+      "861"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1059"
+      "1067"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "632"
+      "633"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "98"
+      "99"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "312"
+      "318"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -54,15 +54,15 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "98"
+      "99"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "515"
+      "517"
     ],
     [
       "/posts/date-examples/",
-      "565"
+      "567"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "330"
+      "331"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -187,6 +187,10 @@
     [
       "/posts/python-tutorial-5-list-and-tuple/,123.113.188.3",
       "4"
+    ],
+    [
+      "/posts/the-searching-order-of-elf-file-deps/,223.93.149.175",
+      "2"
     ]
   ]
 }
