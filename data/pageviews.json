@@ -2,23 +2,23 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "175"
+      "176"
     ],
     [
       "/posts/sed-examples/",
-      "885"
+      "886"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1131"
+      "1136"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "665"
+      "667"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "111"
+      "112"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "329"
+      "331"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -42,27 +42,27 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "191"
+      "194"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "93"
+      "94"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "79"
+      "80"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "111"
+      "112"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "547"
+      "549"
     ],
     [
       "/posts/date-examples/",
-      "580"
+      "582"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -223,6 +223,10 @@
     [
       "/posts/classification-of-chinese-os-and-cpu/,121.8.170.250",
       "2"
+    ],
+    [
+      "/posts/date-examples/,114.119.166.166",
+      "1"
     ]
   ]
 }
