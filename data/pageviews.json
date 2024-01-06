@@ -10,11 +10,11 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1141"
+      "1143"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "671"
+      "674"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "551"
+      "552"
     ],
     [
       "/posts/date-examples/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "338"
+      "340"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -230,6 +230,10 @@
     ],
     [
       "/posts/date-examples/,114.119.129.175",
+      "2"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/,125.69.0.63",
       "2"
     ]
   ]
