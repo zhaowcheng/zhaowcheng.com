@@ -6,11 +6,11 @@
     ],
     [
       "/posts/sed-examples/",
-      "912"
+      "916"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1172"
+      "1178"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -30,7 +30,7 @@
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "125"
+      "126"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -38,15 +38,15 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "104"
+      "105"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "198"
+      "201"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "101"
+      "104"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -54,7 +54,7 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "115"
+      "116"
     ],
     [
       "/posts/introduction-to-fpm/",
@@ -62,7 +62,7 @@
     ],
     [
       "/posts/date-examples/",
-      "591"
+      "592"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "342"
+      "344"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -242,6 +242,18 @@
     ],
     [
       "/posts/python-tutorial-4-string/,114.119.154.229",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-4-string/,114.119.133.236",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-1-introduction/,112.65.211.80",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-2-install-and-usage/,112.65.212.31",
       "1"
     ]
   ]
