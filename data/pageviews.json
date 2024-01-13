@@ -10,15 +10,15 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1186"
+      "1192"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "677"
+      "679"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "115"
+      "117"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "336"
+      "337"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "558"
+      "559"
     ],
     [
       "/posts/date-examples/",
@@ -255,6 +255,10 @@
     [
       "/posts/python-tutorial-2-install-and-usage/,112.65.212.31",
       "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/,223.155.215.224",
+      "2"
     ]
   ]
 }
