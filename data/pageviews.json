@@ -10,11 +10,11 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1192"
+      "1196"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "679"
+      "680"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -38,7 +38,7 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "106"
+      "107"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "559"
+      "562"
     ],
     [
       "/posts/date-examples/",
@@ -70,7 +70,7 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "66"
+      "67"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "102"
+      "104"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -259,6 +259,10 @@
     [
       "/posts/a-packaging-method-with-its-own-deps/,223.155.215.224",
       "2"
+    ],
+    [
+      "/posts/python-tutorial-4-string/,114.119.165.200",
+      "1"
     ]
   ]
 }
