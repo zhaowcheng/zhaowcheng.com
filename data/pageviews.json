@@ -2,7 +2,7 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "183"
+      "184"
     ],
     [
       "/posts/sed-examples/",
@@ -10,11 +10,11 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1283"
+      "1288"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "709"
+      "711"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -30,7 +30,7 @@
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "145"
+      "146"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "216"
+      "219"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "592"
+      "594"
     ],
     [
       "/posts/date-examples/",
@@ -74,7 +74,7 @@
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "58"
+      "59"
     ],
     [
       "/posts/python-tutorial-11-classes/",
@@ -270,6 +270,10 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,123.6.49.9",
+      "1"
+    ],
+    [
+      "/posts/date-examples/,114.119.152.86",
       "1"
     ]
   ]
