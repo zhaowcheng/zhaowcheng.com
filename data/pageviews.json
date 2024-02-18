@@ -2,7 +2,7 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "190"
+      "191"
     ],
     [
       "/posts/sed-examples/",
@@ -10,7 +10,7 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1329"
+      "1333"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -38,7 +38,7 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "118"
+      "120"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
@@ -274,6 +274,10 @@
     ],
     [
       "/posts/date-examples/,114.119.152.86",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-10-exceptions/,114.119.156.115",
       "1"
     ]
   ]
