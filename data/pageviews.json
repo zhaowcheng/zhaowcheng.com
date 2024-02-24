@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "986"
+      "991"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1358"
+      "1360"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "730"
+      "731"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,19 +22,19 @@
     ],
     [
       "/resume.pdf",
-      "131"
+      "132"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "385"
+      "386"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "150"
+      "151"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "73"
+      "74"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -58,23 +58,23 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "617"
+      "618"
     ],
     [
       "/posts/date-examples/",
-      "639"
+      "643"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "70"
+      "71"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "84"
+      "85"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "61"
+      "62"
     ],
     [
       "/posts/python-tutorial-11-classes/",
@@ -283,6 +283,10 @@
     [
       "/posts/a-packaging-method-with-its-own-deps/,27.115.124.118",
       "1"
+    ],
+    [
+      "/posts/date-examples/,114.119.146.120",
+      "2"
     ]
   ]
 }
