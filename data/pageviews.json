@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1085"
+      "1087"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1445"
+      "1446"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "800"
+      "802"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "170"
+      "171"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "431"
+      "432"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -34,11 +34,11 @@
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "98"
+      "99"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "150"
+      "151"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "143"
+      "144"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -54,15 +54,15 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "169"
+      "170"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "712"
+      "716"
     ],
     [
       "/posts/date-examples/",
-      "707"
+      "708"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "445"
+      "448"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "175"
+      "178"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -326,7 +326,7 @@
     ],
     [
       "/posts/sed-examples/,114.119.158.106",
-      "1"
+      "2"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,11",
@@ -334,6 +334,10 @@
     ],
     [
       "/posts/sed-examples/,114.119.146.120",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/,114.119.156.115",
       "1"
     ]
   ]
