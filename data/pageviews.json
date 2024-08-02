@@ -6,7 +6,7 @@
     ],
     [
       "/posts/sed-examples/",
-      "1103"
+      "1104"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
@@ -14,7 +14,7 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "815"
+      "816"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "435"
+      "436"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -34,7 +34,7 @@
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "101"
+      "102"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "262"
+      "263"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -58,27 +58,27 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "728"
+      "730"
     ],
     [
       "/posts/date-examples/",
-      "716"
+      "719"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "96"
+      "99"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "106"
+      "107"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "86"
+      "87"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "146"
+      "149"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "468"
+      "472"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "201"
+      "209"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -342,6 +342,10 @@
     ],
     [
       "/posts/sed-examples/,114.119.156.115",
+      "1"
+    ],
+    [
+      "/posts/sed-examples/,114.119.151.151",
       "1"
     ]
   ]
