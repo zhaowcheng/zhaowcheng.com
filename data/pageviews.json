@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1180"
+      "1182"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1530"
+      "1531"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "868"
+      "869"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "190"
+      "191"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "489"
+      "491"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "162"
+      "163"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "500"
+      "502"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "321"
+      "323"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -350,7 +350,7 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,114.119.153.106",
-      "1"
+      "2"
     ],
     [
       "/posts/sed-examples/,114.119.128.62",
@@ -358,6 +358,10 @@
     ],
     [
       "/posts/sed-examples/,114.119.152.86",
+      "1"
+    ],
+    [
+      "/posts/sed-examples/,114.119.153.106",
       "1"
     ]
   ]
