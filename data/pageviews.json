@@ -2,23 +2,23 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "209"
+      "210"
     ],
     [
       "/posts/sed-examples/",
-      "1182"
+      "1183"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1531"
+      "1534"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "869"
+      "871"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "191"
+      "194"
     ],
     [
       "/resume.pdf",
@@ -26,11 +26,11 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "491"
+      "492"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "190"
+      "192"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -38,11 +38,11 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "173"
+      "175"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "304"
+      "306"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -54,15 +54,15 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "185"
+      "186"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "774"
+      "775"
     ],
     [
       "/posts/date-examples/",
-      "741"
+      "743"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -70,7 +70,7 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "125"
+      "126"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "163"
+      "165"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "502"
+      "503"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "323"
+      "327"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -362,7 +362,7 @@
     ],
     [
       "/posts/sed-examples/,114.119.153.106",
-      "1"
+      "2"
     ]
   ]
 }
