@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1194"
+      "1195"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1548"
+      "1552"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "880"
+      "883"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "204"
+      "206"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "501"
+      "503"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -38,11 +38,11 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "181"
+      "183"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "318"
+      "321"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -54,23 +54,23 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "188"
+      "190"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "785"
+      "788"
     ],
     [
       "/posts/date-examples/",
-      "751"
+      "752"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "110"
+      "112"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "129"
+      "130"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "175"
+      "176"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "510"
+      "511"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "345"
+      "346"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -363,6 +363,10 @@
     [
       "/posts/sed-examples/,114.119.153.106",
       "2"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/,114.119.152.86",
+      "1"
     ]
   ]
 }
