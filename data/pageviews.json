@@ -10,15 +10,15 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1552"
+      "1561"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "883"
+      "885"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "209"
+      "210"
     ],
     [
       "/resume.pdf",
@@ -38,11 +38,11 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "185"
+      "186"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "323"
+      "325"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "788"
+      "790"
     ],
     [
       "/posts/date-examples/",
-      "756"
+      "757"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "349"
+      "354"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -367,6 +367,10 @@
     [
       "/posts/classification-of-chinese-os-and-cpu/,114.119.152.86",
       "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/%0D%0Apriority:%20u=4,%20i%0D%0Asec-ch-prefers-color-scheme:%20light%0D%0Asec-ch-ua:%20%22Chromium%22;v=%22128%22,%20%22Not;A=Brand%22;v=%2224%22,%20%22Google%20Chrome%22;v=%22128%22%0D%0Asec-ch-ua-arch:%20%22x86%22%0D%0Asec-ch-ua-bitness:%20%2264%22%0D%0Asec-ch-ua-full-version:%20%22128.0.6613.86%22%0D%0Asec-ch-ua-full-version-list:%20%22Chromium%22;v=%22128.0.6613.86%22,%20%22Not;A=Brand%22;v=%2224.0.0.0%22,%20%22Google%20Chrome%22;v=%22128.0.6613.86%22%0D%0Asec-ch-ua-mobile:%20?0%0D%0Asec-ch-ua-model:%20%22%22%0D%0Asec-ch-ua-platform:%20%22Windows%22%0D%0Asec-ch-ua-platform-version:%20%2210.0.0%22%0D%0Asec-ch-ua-wow64:%20?0%0D%0Asec-fetch-dest:%20empty%0D%0Asec-fetch-mode:%20no-cors%0D%0Asec-fetch-site:%20same-origin%0D%0Auser-agent:%20Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/128.0.0.0%20Safari/537.36%0D%0Ax-client-data:%20CKC1yQEIirbJAQiktskBCKmdygEI%20P7KAQiVocsBCIWgzQEIuMjNAQivns4BCL%202zgEIvLnOAQjiu84BCOm%20zgEI%20L7OARj0yc0BGL2uzgEYnbHOARi/k9Ui%0D%0A0",
+      "2"
     ]
   ]
 }
