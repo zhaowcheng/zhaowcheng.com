@@ -6,27 +6,27 @@
     ],
     [
       "/posts/sed-examples/",
-      "1212"
+      "1214"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1586"
+      "1594"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "898"
+      "900"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "223"
+      "225"
     ],
     [
       "/resume.pdf",
-      "161"
+      "162"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "515"
+      "517"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -38,7 +38,7 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "191"
+      "193"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "168"
+      "169"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "801"
+      "805"
     ],
     [
       "/posts/date-examples/",
-      "762"
+      "764"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -70,7 +70,7 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "136"
+      "137"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "519"
+      "520"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -102,15 +102,15 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/assets/js/dist/pvreport.min.js",
-      "1"
+      "2"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/assets/js/dist/post.min.js",
-      "1"
+      "2"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/app.js",
-      "1"
+      "2"
     ],
     [
       "/posts/python-tutorial-4-string/,123.113.179.90",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "376"
+      "378"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -378,6 +378,10 @@
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/,203.211.75.199",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/,114.119.156.131",
       "1"
     ]
   ]
