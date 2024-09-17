@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1219"
+      "1220"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1596"
+      "1605"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "902"
+      "904"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "226"
+      "230"
     ],
     [
       "/resume.pdf",
@@ -26,11 +26,11 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "518"
+      "521"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "207"
+      "208"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -46,11 +46,11 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "170"
+      "173"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "112"
+      "113"
     ],
     [
       "/posts/python-tutorial-4-string/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "805"
+      "807"
     ],
     [
       "/posts/date-examples/",
-      "765"
+      "767"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -70,15 +70,15 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "137"
+      "139"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "96"
+      "97"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "187"
+      "192"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "522"
+      "523"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "382"
+      "384"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -387,6 +387,14 @@
     [
       "/posts/sed-examples/,114.119.152.139",
       "2"
+    ],
+    [
+      "/posts/sed-examples/,114.119.136.68",
+      "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps//assets/img/favicons/favicon.ico",
+      "1"
     ]
   ]
 }
