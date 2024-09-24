@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1237"
+      "1239"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1639"
+      "1645"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "940"
+      "947"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "252"
+      "257"
     ],
     [
       "/resume.pdf",
@@ -26,31 +26,31 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "539"
+      "544"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "223"
+      "227"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "125"
+      "127"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "210"
+      "211"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "406"
+      "411"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "181"
+      "183"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "122"
+      "125"
     ],
     [
       "/posts/python-tutorial-4-string/",
@@ -58,27 +58,27 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "829"
+      "833"
     ],
     [
       "/posts/date-examples/",
-      "781"
+      "784"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "124"
+      "125"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "145"
+      "146"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "102"
+      "103"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "208"
+      "212"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "537"
+      "542"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "414"
+      "418"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -386,7 +386,7 @@
     ],
     [
       "/posts/sed-examples/,114.119.152.139",
-      "3"
+      "4"
     ],
     [
       "/posts/sed-examples/,114.119.136.68",
@@ -403,6 +403,10 @@
     [
       "/posts/sed-examples/,114.119.139.86",
       "2"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/,180.158.115.14",
+      "1"
     ]
   ]
 }
