@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "228"
+      "229"
     ],
     [
       "/posts/sed-examples/",
-      "1275"
+      "1276"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1670"
+      "1674"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "971"
+      "974"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,7 +22,7 @@
     ],
     [
       "/resume.pdf",
-      "171"
+      "174"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "846"
+      "848"
     ],
     [
       "/posts/date-examples/",
-      "798"
+      "799"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "558"
+      "559"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "471"
+      "476"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -422,6 +422,10 @@
     ],
     [
       "/posts/introduction-to-xbot/app.js",
+      "1"
+    ],
+    [
+      "/resume.pdf,111.9.142.83",
       "1"
     ]
   ]
