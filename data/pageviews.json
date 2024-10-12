@@ -2,35 +2,35 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "232"
+      "233"
     ],
     [
       "/posts/sed-examples/",
-      "1296"
+      "1297"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1708"
+      "1713"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "996"
+      "998"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "282"
+      "285"
     ],
     [
       "/resume.pdf",
-      "177"
+      "178"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "568"
+      "570"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "237"
+      "239"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -38,11 +38,11 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "227"
+      "228"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "443"
+      "445"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -50,7 +50,7 @@
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "127"
+      "128"
     ],
     [
       "/posts/python-tutorial-4-string/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "861"
+      "862"
     ],
     [
       "/posts/date-examples/",
@@ -70,7 +70,7 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "151"
+      "152"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "224"
+      "226"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "499"
+      "500"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -442,6 +442,10 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,114.119.136.68",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/,124.205.50.18",
       "1"
     ]
   ]
