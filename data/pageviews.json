@@ -6,11 +6,11 @@
     ],
     [
       "/posts/sed-examples/",
-      "1335"
+      "1337"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1799"
+      "1803"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -18,7 +18,7 @@
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "296"
+      "300"
     ],
     [
       "/resume.pdf",
@@ -38,11 +38,11 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "240"
+      "241"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "476"
+      "478"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -50,11 +50,11 @@
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "133"
+      "134"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "206"
+      "207"
     ],
     [
       "/posts/introduction-to-fpm/",
@@ -70,7 +70,7 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "155"
+      "156"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "547"
+      "548"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -454,6 +454,10 @@
     ],
     [
       "/posts/sed-examples/,114.119.151.14",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/,114.119.154.253",
       "1"
     ]
   ]
