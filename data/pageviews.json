@@ -6,27 +6,27 @@
     ],
     [
       "/posts/sed-examples/",
-      "1404"
+      "1405"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1911"
+      "1912"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1102"
+      "1103"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "327"
+      "328"
     ],
     [
       "/resume.pdf",
-      "192"
+      "193"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "644"
+      "648"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -42,11 +42,11 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "504"
+      "505"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "227"
+      "229"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "969"
+      "972"
     ],
     [
       "/posts/date-examples/",
-      "866"
+      "867"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "636"
+      "637"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "635"
+      "639"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -475,6 +475,10 @@
     [
       "/posts/a-packaging-method-with-its-own-deps/,110.88.105.29",
       "2"
+    ],
+    [
+      "/posts/introduction-to-xbot/,167.206.252.71",
+      "1"
     ]
   ]
 }
