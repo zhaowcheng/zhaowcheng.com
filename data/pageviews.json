@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "269"
+      "271"
     ],
     [
       "/posts/sed-examples/",
-      "1413"
+      "1418"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1925"
+      "1928"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1110"
+      "1132"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "654"
+      "657"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "980"
+      "984"
     ],
     [
       "/posts/date-examples/",
-      "871"
+      "873"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "265"
+      "266"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "644"
+      "647"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "651"
+      "656"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -483,6 +483,18 @@
     [
       "/posts/python-tutorial-4-string/,114.119.133.201",
       "2"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/app.js",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/assets/js/dist/post.min.js",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/assets/js/dist/pvreport.min.js",
+      "1"
     ]
   ]
 }
