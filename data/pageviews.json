@@ -2,15 +2,15 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "273"
+      "274"
     ],
     [
       "/posts/sed-examples/",
-      "1423"
+      "1424"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1932"
+      "1933"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -22,7 +22,7 @@
     ],
     [
       "/resume.pdf",
-      "196"
+      "197"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -34,7 +34,7 @@
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "147"
+      "148"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "511"
+      "513"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -54,15 +54,15 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "224"
+      "225"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "987"
+      "988"
     ],
     [
       "/posts/date-examples/",
-      "877"
+      "878"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -70,7 +70,7 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "167"
+      "168"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "653"
+      "654"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "664"
+      "667"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -494,6 +494,10 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/assets/js/dist/pvreport.min.js",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-4-string/,114.119.136.68",
       "1"
     ]
   ]
