@@ -2,35 +2,35 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "281"
+      "283"
     ],
     [
       "/posts/sed-examples/",
-      "1445"
+      "1455"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "1977"
+      "1981"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1157"
+      "1159"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "348"
+      "350"
     ],
     [
       "/resume.pdf",
-      "201"
+      "202"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "679"
+      "682"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "274"
+      "275"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -38,15 +38,15 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "261"
+      "263"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "525"
+      "526"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "244"
+      "245"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1015"
+      "1021"
     ],
     [
       "/posts/date-examples/",
-      "895"
+      "897"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "281"
+      "282"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "670"
+      "672"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "710"
+      "722"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -498,6 +498,10 @@
     ],
     [
       "/posts/python-tutorial-4-string/,114.119.136.68",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/,210.13.101.42",
       "1"
     ]
   ]
