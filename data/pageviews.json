@@ -2,15 +2,15 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "288"
+      "289"
     ],
     [
       "/posts/sed-examples/",
-      "1485"
+      "1487"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2021"
+      "2024"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "709"
+      "713"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1062"
+      "1065"
     ],
     [
       "/posts/date-examples/",
-      "919"
+      "921"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "702"
+      "704"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "772"
+      "777"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "48"
+      "49"
     ],
     [
       "/posts/postgresql-encoding/",
-      "37"
+      "40"
     ]
   ]
 }
