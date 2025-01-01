@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "289"
+      "292"
     ],
     [
       "/posts/sed-examples/",
-      "1487"
+      "1489"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2024"
+      "2025"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1191"
+      "1192"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,15 +22,15 @@
     ],
     [
       "/resume.pdf",
-      "206"
+      "207"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "713"
+      "714"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "292"
+      "293"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "263"
+      "264"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -58,15 +58,15 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1065"
+      "1067"
     ],
     [
       "/posts/date-examples/",
-      "921"
+      "923"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "151"
+      "152"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "296"
+      "297"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "704"
+      "707"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "777"
+      "781"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "49"
+      "53"
     ],
     [
       "/posts/postgresql-encoding/",
-      "40"
+      "44"
     ]
   ]
 }
