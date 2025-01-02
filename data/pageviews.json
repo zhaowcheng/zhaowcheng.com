@@ -6,7 +6,7 @@
     ],
     [
       "/posts/sed-examples/",
-      "1489"
+      "1491"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
@@ -22,7 +22,7 @@
     ],
     [
       "/resume.pdf",
-      "207"
+      "208"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "544"
+      "545"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -70,7 +70,7 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "181"
+      "182"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "781"
+      "784"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -510,7 +510,11 @@
     ],
     [
       "/posts/postgresql-encoding/",
-      "44"
+      "45"
+    ],
+    [
+      "/posts/postgresql-encoding/,114.119.134.3",
+      "1"
     ]
   ]
 }
