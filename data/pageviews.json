@@ -2,35 +2,35 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "300"
+      "301"
     ],
     [
       "/posts/sed-examples/",
-      "1528"
+      "1530"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2073"
+      "2076"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1237"
+      "1240"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "379"
+      "381"
     ],
     [
       "/resume.pdf",
-      "217"
+      "218"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "748"
+      "751"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "305"
+      "306"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -38,7 +38,7 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "289"
+      "290"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "277"
+      "278"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -58,15 +58,15 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1108"
+      "1112"
     ],
     [
       "/posts/date-examples/",
-      "942"
+      "945"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "161"
+      "162"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "735"
+      "738"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "849"
+      "853"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "102"
+      "104"
     ],
     [
       "/posts/postgresql-encoding/",
-      "86"
+      "89"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
