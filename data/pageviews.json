@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "1534"
+      "1536"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2087"
+      "2091"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1247"
+      "1248"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,11 +26,11 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "754"
+      "757"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "312"
+      "313"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -38,7 +38,7 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "292"
+      "293"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "285"
+      "286"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -54,19 +54,19 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "250"
+      "251"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1119"
+      "1121"
     ],
     [
       "/posts/date-examples/",
-      "950"
+      "952"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "170"
+      "171"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "745"
+      "750"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "861"
+      "864"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "110"
+      "113"
     ],
     [
       "/posts/postgresql-encoding/",
-      "99"
+      "101"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "8"
+      "13"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,15 @@
     ],
     [
       "/posts/etcd-tls/",
-      "12"
+      "23"
+    ],
+    [
+      "/posts/python-tutorial-1-introduction/,47.82.11.64",
+      "1"
+    ],
+    [
+      "/posts/a-packaging-method-with-its-own-deps/,47.82.11.190",
+      "1"
     ]
   ]
 }
