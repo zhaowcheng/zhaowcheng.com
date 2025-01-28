@@ -2,7 +2,7 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "303"
+      "304"
     ],
     [
       "/posts/sed-examples/",
@@ -22,7 +22,7 @@
     ],
     [
       "/resume.pdf",
-      "220"
+      "221"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "578"
+      "581"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1121"
+      "1122"
     ],
     [
       "/posts/date-examples/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "750"
+      "755"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "864"
+      "867"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "113"
+      "116"
     ],
     [
       "/posts/postgresql-encoding/",
-      "101"
+      "103"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "13"
+      "15"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "23"
+      "25"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -538,6 +538,10 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/,47.82.11.190",
+      "1"
+    ],
+    [
+      "/posts/introduction-to-xbot/,114.250.48.247",
       "1"
     ]
   ]
