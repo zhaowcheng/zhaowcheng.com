@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "305"
+      "308"
     ],
     [
       "/posts/sed-examples/",
-      "1537"
+      "1540"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2092"
+      "2094"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1248"
+      "1249"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "758"
+      "759"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -38,7 +38,7 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "293"
+      "294"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "286"
+      "287"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -62,7 +62,7 @@
     ],
     [
       "/posts/date-examples/",
-      "953"
+      "954"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "758"
+      "759"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "870"
+      "878"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "120"
+      "122"
     ],
     [
       "/posts/postgresql-encoding/",
-      "109"
+      "110"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "23"
+      "24"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "33"
+      "36"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
