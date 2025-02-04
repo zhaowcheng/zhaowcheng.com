@@ -2,11 +2,11 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "308"
+      "310"
     ],
     [
       "/posts/sed-examples/",
-      "1543"
+      "1544"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
@@ -14,7 +14,7 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1252"
+      "1253"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "585"
+      "586"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -54,15 +54,15 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "253"
+      "254"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1126"
+      "1127"
     ],
     [
       "/posts/date-examples/",
-      "958"
+      "959"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "314"
+      "315"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "762"
+      "763"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "883"
+      "886"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -510,7 +510,7 @@
     ],
     [
       "/posts/postgresql-encoding/",
-      "112"
+      "115"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -518,11 +518,11 @@
     ],
     [
       "/posts/introduction-to-xbot/,114.119.152.139",
-      "1"
+      "2"
     ],
     [
       "/posts/ssl-notes/",
-      "25"
+      "27"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "44"
+      "46"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
