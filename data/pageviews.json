@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "1546"
+      "1548"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2101"
+      "2104"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1256"
+      "1259"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,7 +22,7 @@
     ],
     [
       "/resume.pdf",
-      "223"
+      "224"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "287"
+      "288"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1131"
+      "1132"
     ],
     [
       "/posts/date-examples/",
-      "959"
+      "960"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "315"
+      "316"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "764"
+      "765"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "888"
+      "890"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "132"
+      "136"
     ],
     [
       "/posts/postgresql-encoding/",
-      "119"
+      "120"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "31"
+      "32"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "49"
+      "54"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -542,6 +542,10 @@
     ],
     [
       "/posts/introduction-to-xbot/,114.250.48.247",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/,118.248.153.184",
       "1"
     ]
   ]
