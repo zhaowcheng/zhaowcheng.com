@@ -2,83 +2,83 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "320"
+      "321"
     ],
     [
       "/posts/sed-examples/",
-      "1559"
+      "1563"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2122"
+      "2128"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1269"
+      "1273"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "392"
+      "394"
     ],
     [
       "/resume.pdf",
-      "229"
+      "230"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "784"
+      "791"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "319"
+      "322"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "172"
+      "174"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "301"
+      "303"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "593"
+      "596"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "292"
+      "294"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "170"
+      "172"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "258"
+      "261"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1145"
+      "1150"
     ],
     [
       "/posts/date-examples/",
-      "965"
+      "967"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "176"
+      "178"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "195"
+      "197"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "146"
+      "148"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "320"
+      "324"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "773"
+      "777"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "906"
+      "914"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "151"
+      "164"
     ],
     [
       "/posts/postgresql-encoding/",
-      "132"
+      "136"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "40"
+      "44"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "80"
+      "85"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
