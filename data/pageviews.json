@@ -2,11 +2,11 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "322"
+      "324"
     ],
     [
       "/posts/sed-examples/",
-      "1565"
+      "1566"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
@@ -14,19 +14,19 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1275"
+      "1279"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "396"
+      "397"
     ],
     [
       "/resume.pdf",
-      "231"
+      "233"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "796"
+      "797"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -38,7 +38,7 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "303"
+      "305"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1151"
+      "1153"
     ],
     [
       "/posts/date-examples/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "777"
+      "778"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "916"
+      "918"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "168"
+      "170"
     ],
     [
       "/posts/postgresql-encoding/",
-      "138"
+      "141"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "46"
+      "49"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "87"
+      "90"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -550,6 +550,10 @@
     ],
     [
       "/posts/introduction-to-fpm/,112.17.79.157",
+      "1"
+    ],
+    [
+      "/posts/classification-of-chinese-os-and-cpu/,123.126.109.58",
       "1"
     ]
   ]
