@@ -2,7 +2,7 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "334"
+      "335"
     ],
     [
       "/posts/sed-examples/",
@@ -10,7 +10,7 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2174"
+      "2178"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -18,7 +18,7 @@
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "405"
+      "407"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "820"
+      "821"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "605"
+      "606"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -54,7 +54,7 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "266"
+      "268"
     ],
     [
       "/posts/introduction-to-fpm/",
@@ -62,7 +62,7 @@
     ],
     [
       "/posts/date-examples/",
-      "974"
+      "975"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "195"
+      "200"
     ],
     [
       "/posts/postgresql-encoding/",
-      "153"
+      "155"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "106"
+      "107"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
