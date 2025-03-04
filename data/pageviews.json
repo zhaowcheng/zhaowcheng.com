@@ -2,39 +2,39 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "342"
+      "343"
     ],
     [
       "/posts/sed-examples/",
-      "1597"
+      "1600"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2211"
+      "2214"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1321"
+      "1324"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "418"
+      "420"
     ],
     [
       "/resume.pdf",
-      "242"
+      "243"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "852"
+      "857"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "331"
+      "332"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "182"
+      "183"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "304"
+      "305"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -54,15 +54,15 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "279"
+      "280"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1197"
+      "1200"
     ],
     [
       "/posts/date-examples/",
-      "986"
+      "988"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "806"
+      "809"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "984"
+      "988"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "238"
+      "246"
     ],
     [
       "/posts/postgresql-encoding/",
-      "174"
+      "175"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "78"
+      "79"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "121"
+      "122"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "41"
+      "43"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
