@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "343"
+      "344"
     ],
     [
       "/posts/sed-examples/",
-      "1601"
+      "1602"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2217"
+      "2224"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1326"
+      "1327"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,11 +22,11 @@
     ],
     [
       "/resume.pdf",
-      "243"
+      "245"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "862"
+      "867"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -54,15 +54,15 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "280"
+      "281"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1202"
+      "1215"
     ],
     [
       "/posts/date-examples/",
-      "988"
+      "990"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "809"
+      "813"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "988"
+      "1000"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "251"
+      "260"
     ],
     [
       "/posts/postgresql-encoding/",
-      "175"
+      "180"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "80"
+      "84"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "122"
+      "126"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "44"
+      "50"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
