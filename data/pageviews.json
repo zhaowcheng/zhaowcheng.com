@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "1605"
+      "1607"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2232"
+      "2239"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1332"
+      "1333"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,7 +22,7 @@
     ],
     [
       "/resume.pdf",
-      "249"
+      "250"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -30,7 +30,7 @@
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "334"
+      "335"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "307"
+      "308"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -54,7 +54,7 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "283"
+      "284"
     ],
     [
       "/posts/introduction-to-fpm/",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "266"
+      "268"
     ],
     [
       "/posts/postgresql-encoding/",
-      "182"
+      "185"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "89"
+      "92"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "132"
+      "134"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "55"
+      "60"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -574,6 +574,10 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/%7Burl%7D",
+      "1"
+    ],
+    [
+      "/posts/python-advanced-deepget-and-deepset/%7Burl%7D",
       "1"
     ]
   ]
