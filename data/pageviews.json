@@ -2,7 +2,7 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "344"
+      "345"
     ],
     [
       "/posts/sed-examples/",
@@ -10,15 +10,15 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2239"
+      "2240"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1333"
+      "1335"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "425"
+      "431"
     ],
     [
       "/resume.pdf",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "627"
+      "631"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1224"
+      "1225"
     ],
     [
       "/posts/date-examples/",
-      "992"
+      "993"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "341"
+      "343"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1005"
+      "1008"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,7 +506,7 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "268"
+      "271"
     ],
     [
       "/posts/postgresql-encoding/",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "134"
+      "136"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "60"
+      "61"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -578,6 +578,14 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/%7Burl%7D",
+      "1"
+    ],
+    [
+      "/posts/introduction-to-xbot/%7Burl%7D",
+      "1"
+    ],
+    [
+      "/posts/introduction-to-fpm/%7Burl%7D",
       "1"
     ]
   ]
