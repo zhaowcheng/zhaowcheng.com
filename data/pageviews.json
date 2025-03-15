@@ -2,23 +2,23 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "349"
+      "351"
     ],
     [
       "/posts/sed-examples/",
-      "1616"
+      "1619"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2271"
+      "2272"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1354"
+      "1356"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "445"
+      "448"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "895"
+      "897"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -38,15 +38,15 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "326"
+      "329"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "644"
+      "647"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "310"
+      "311"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1242"
+      "1243"
     ],
     [
       "/posts/date-examples/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "346"
+      "348"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1022"
+      "1026"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,7 +506,7 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "320"
+      "321"
     ],
     [
       "/posts/postgresql-encoding/",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "144"
+      "146"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "72"
+      "75"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "8"
+      "11"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -598,6 +598,18 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/%7Burl%7D",
+      "1"
+    ],
+    [
+      "/posts/introduction-to-xbot/,114.250.51.8",
+      "1"
+    ],
+    [
+      "/posts/the-searching-order-of-elf-file-deps/,123.126.109.6",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-9-input-and-output/,123.126.109.102",
       "1"
     ]
   ]
