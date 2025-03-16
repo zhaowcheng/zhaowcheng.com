@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1619"
+      "1623"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2272"
+      "2277"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1356"
+      "1357"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "448"
+      "450"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "897"
+      "903"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "647"
+      "648"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -54,15 +54,15 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "286"
+      "287"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1243"
+      "1245"
     ],
     [
       "/posts/date-examples/",
-      "995"
+      "996"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "822"
+      "826"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1026"
+      "1029"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "321"
+      "325"
     ],
     [
       "/posts/postgresql-encoding/",
-      "205"
+      "207"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "98"
+      "100"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "146"
+      "148"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "75"
+      "78"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "11"
+      "16"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -610,6 +610,10 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/,123.126.109.102",
+      "1"
+    ],
+    [
+      "/posts/kvm-bridge-by-iptables/assets/img/favicons/apple-touch-icon.png",
       "1"
     ]
   ]
