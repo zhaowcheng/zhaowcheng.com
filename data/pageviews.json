@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1625"
+      "1627"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2295"
+      "2299"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1366"
+      "1373"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "454"
+      "457"
     ],
     [
       "/resume.pdf",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "917"
+      "923"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "653"
+      "655"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1251"
+      "1252"
     ],
     [
       "/posts/date-examples/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1038"
+      "1041"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "350"
+      "359"
     ],
     [
       "/posts/postgresql-encoding/",
-      "218"
+      "222"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "106"
+      "107"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "158"
+      "159"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "84"
+      "91"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "30"
+      "38"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "5"
+      "16"
     ]
   ]
 }
