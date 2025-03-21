@@ -2,7 +2,7 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "355"
+      "356"
     ],
     [
       "/posts/sed-examples/",
@@ -10,7 +10,7 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2299"
+      "2312"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -18,7 +18,7 @@
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "457"
+      "458"
     ],
     [
       "/resume.pdf",
@@ -26,11 +26,11 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "923"
+      "924"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "336"
+      "337"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -38,15 +38,15 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "330"
+      "331"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "655"
+      "656"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "316"
+      "317"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -54,7 +54,7 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "288"
+      "289"
     ],
     [
       "/posts/introduction-to-fpm/",
@@ -78,7 +78,7 @@
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "349"
+      "351"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "830"
+      "833"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1041"
+      "1044"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "359"
+      "366"
     ],
     [
       "/posts/postgresql-encoding/",
-      "222"
+      "223"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "107"
+      "108"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "159"
+      "162"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "91"
+      "96"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "38"
+      "39"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "16"
+      "19"
     ]
   ]
 }
