@@ -2,15 +2,15 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "356"
+      "359"
     ],
     [
       "/posts/sed-examples/",
-      "1627"
+      "1630"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2312"
+      "2315"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "833"
+      "834"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1044"
+      "1047"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "366"
+      "369"
     ],
     [
       "/posts/postgresql-encoding/",
-      "223"
+      "225"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "162"
+      "163"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "96"
+      "98"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -594,7 +594,7 @@
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
-      "1"
+      "3"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/%7Burl%7D",
@@ -638,7 +638,15 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "19"
+      "20"
+    ],
+    [
+      "/posts/ssl-notes/,114.119.134.3",
+      "2"
+    ],
+    [
+      "/posts/postgresql-locale/,114.119.134.3",
+      "1"
     ]
   ]
 }
