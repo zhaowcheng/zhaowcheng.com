@@ -2,7 +2,7 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "362"
+      "363"
     ],
     [
       "/posts/sed-examples/",
@@ -10,7 +10,7 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2325"
+      "2326"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -26,19 +26,19 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "928"
+      "930"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "337"
+      "338"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "185"
+      "186"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "331"
+      "332"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1259"
+      "1260"
     ],
     [
       "/posts/date-examples/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "834"
+      "836"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1050"
+      "1052"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,7 +506,7 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "373"
+      "379"
     ],
     [
       "/posts/postgresql-encoding/",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "103"
+      "105"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "42"
+      "43"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "26"
+      "28"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
