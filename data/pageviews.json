@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "1636"
+      "1639"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2336"
+      "2340"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1379"
+      "1381"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -42,11 +42,11 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "658"
+      "659"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "318"
+      "319"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -54,11 +54,11 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "289"
+      "290"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1264"
+      "1266"
     ],
     [
       "/posts/date-examples/",
@@ -66,7 +66,7 @@
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "191"
+      "192"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1055"
+      "1059"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "385"
+      "390"
     ],
     [
       "/posts/postgresql-encoding/",
-      "232"
+      "238"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "113"
+      "115"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "109"
+      "111"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "45"
+      "52"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "31"
+      "35"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
