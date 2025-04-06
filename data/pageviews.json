@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "375"
+      "376"
     ],
     [
       "/posts/sed-examples/",
-      "1651"
+      "1652"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2370"
+      "2371"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1399"
+      "1400"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,19 +22,19 @@
     ],
     [
       "/resume.pdf",
-      "265"
+      "266"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "953"
+      "956"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "341"
+      "343"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "189"
+      "190"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -62,7 +62,7 @@
     ],
     [
       "/posts/date-examples/",
-      "1007"
+      "1008"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -506,7 +506,7 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "419"
+      "421"
     ],
     [
       "/posts/postgresql-encoding/",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "123"
+      "124"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "180"
+      "181"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "127"
+      "130"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "62"
+      "64"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "51"
+      "52"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "19"
+      "22"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -670,6 +670,10 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/%7Burl%7D",
+      "1"
+    ],
+    [
+      "/posts/postgresql-locale/%7Burl%7D",
       "1"
     ]
   ]
