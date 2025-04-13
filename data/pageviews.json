@@ -10,7 +10,7 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2402"
+      "2405"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -18,7 +18,7 @@
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "477"
+      "478"
     ],
     [
       "/resume.pdf",
@@ -26,15 +26,15 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "991"
+      "992"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "351"
+      "352"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "196"
+      "197"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -46,11 +46,11 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "329"
+      "331"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "197"
+      "198"
     ],
     [
       "/posts/python-tutorial-4-string/",
@@ -66,15 +66,15 @@
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "203"
+      "205"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "218"
+      "219"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "166"
+      "167"
     ],
     [
       "/posts/python-tutorial-11-classes/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "858"
+      "863"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1113"
+      "1118"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,7 +506,7 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "447"
+      "454"
     ],
     [
       "/posts/postgresql-encoding/",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "145"
+      "146"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -582,7 +582,7 @@
     ],
     [
       "/posts/introduction-to-xbot/%7Burl%7D",
-      "1"
+      "2"
     ],
     [
       "/posts/introduction-to-fpm/%7Burl%7D",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "83"
+      "85"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "72"
+      "74"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "48"
+      "51"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
