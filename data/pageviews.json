@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "380"
+      "382"
     ],
     [
       "/posts/sed-examples/",
-      "1662"
+      "1665"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2405"
+      "2408"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1413"
+      "1418"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "992"
+      "994"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1303"
+      "1306"
     ],
     [
       "/posts/date-examples/",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "454"
+      "455"
     ],
     [
       "/posts/postgresql-encoding/",
-      "255"
+      "260"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "201"
+      "205"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "146"
+      "150"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "85"
+      "86"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
