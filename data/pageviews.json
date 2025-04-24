@@ -2,15 +2,15 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "391"
+      "393"
     ],
     [
       "/posts/sed-examples/",
-      "1677"
+      "1679"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2438"
+      "2446"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
@@ -18,15 +18,15 @@
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "490"
+      "491"
     ],
     [
       "/resume.pdf",
-      "277"
+      "279"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1013"
+      "1015"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1330"
+      "1332"
     ],
     [
       "/posts/date-examples/",
@@ -66,7 +66,7 @@
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "211"
+      "212"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "875"
+      "876"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1134"
+      "1135"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,7 +506,7 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "487"
+      "491"
     ],
     [
       "/posts/postgresql-encoding/",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "219"
+      "223"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "167"
+      "170"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "98"
+      "99"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "89"
+      "92"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -698,6 +698,10 @@
     ],
     [
       "/posts/postgresql-high-availability/%7Burl%7D",
+      "1"
+    ],
+    [
+      "/posts/postgresql-configuration/",
       "1"
     ]
   ]
