@@ -2,23 +2,23 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "393"
+      "394"
     ],
     [
       "/posts/sed-examples/",
-      "1679"
+      "1681"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2446"
+      "2449"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1435"
+      "1437"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "491"
+      "493"
     ],
     [
       "/resume.pdf",
@@ -26,11 +26,11 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1015"
+      "1019"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "359"
+      "360"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -38,47 +38,47 @@
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "352"
+      "354"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "686"
+      "692"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "337"
+      "338"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "204"
+      "206"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "303"
+      "304"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1332"
+      "1335"
     ],
     [
       "/posts/date-examples/",
-      "1016"
+      "1019"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "212"
+      "213"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "226"
+      "227"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "175"
+      "178"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "365"
+      "366"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "876"
+      "880"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1135"
+      "1140"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "491"
+      "495"
     ],
     [
       "/posts/postgresql-encoding/",
-      "277"
+      "281"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "147"
+      "149"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "223"
+      "226"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "170"
+      "175"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "99"
+      "101"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "92"
+      "97"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "75"
+      "80"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -658,7 +658,7 @@
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https://patroni.readthedocs.io/en/latest/patroni_configuration.html",
-      "2"
+      "3"
     ],
     [
       "/posts/introduction-to-xbot/img/tibet-1.jpg",
@@ -702,6 +702,10 @@
     ],
     [
       "/posts/postgresql-configuration/",
+      "10"
+    ],
+    [
+      "/posts/postgresql-configuration/%7Burl%7D",
       "1"
     ]
   ]
