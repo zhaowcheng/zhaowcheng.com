@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "401"
+      "403"
     ],
     [
       "/posts/sed-examples/",
-      "1686"
+      "1688"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2472"
+      "2477"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1449"
+      "1452"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,11 +26,11 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1028"
+      "1031"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "365"
+      "367"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "695"
+      "696"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -50,7 +50,7 @@
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "208"
+      "210"
     ],
     [
       "/posts/python-tutorial-4-string/",
@@ -74,7 +74,7 @@
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "181"
+      "184"
     ],
     [
       "/posts/python-tutorial-11-classes/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1159"
+      "1162"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "509"
+      "513"
     ],
     [
       "/posts/postgresql-encoding/",
-      "290"
+      "293"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "155"
+      "158"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "236"
+      "239"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "191"
+      "193"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "112"
+      "113"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "107"
+      "108"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "93"
+      "94"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,7 +702,7 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "20"
+      "24"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
