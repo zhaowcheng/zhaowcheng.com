@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "1702"
+      "1704"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2505"
+      "2507"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1477"
+      "1481"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,7 +22,7 @@
     ],
     [
       "/resume.pdf",
-      "286"
+      "287"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -42,11 +42,11 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "711"
+      "712"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "347"
+      "348"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "897"
+      "899"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1181"
+      "1184"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "556"
+      "557"
     ],
     [
       "/posts/postgresql-encoding/",
-      "308"
+      "310"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "166"
+      "167"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "250"
+      "253"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "123"
+      "124"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "137"
+      "138"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "129"
+      "136"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -694,7 +694,7 @@
     ],
     [
       "/posts/etcd-tls/%7Burl%7D",
-      "1"
+      "2"
     ],
     [
       "/posts/postgresql-high-availability/%7Burl%7D",
