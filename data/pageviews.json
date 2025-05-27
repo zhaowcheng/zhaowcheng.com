@@ -2,23 +2,23 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "435"
+      "436"
     ],
     [
       "/posts/sed-examples/",
-      "1727"
+      "1728"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2551"
+      "2555"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1531"
+      "1534"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "523"
+      "525"
     ],
     [
       "/resume.pdf",
@@ -26,11 +26,11 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1092"
+      "1095"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "384"
+      "385"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
@@ -46,7 +46,7 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "359"
+      "361"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1212"
+      "1214"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "615"
+      "618"
     ],
     [
       "/posts/postgresql-encoding/",
-      "332"
+      "333"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "272"
+      "274"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "174"
+      "176"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -654,7 +654,7 @@
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
-      "6"
+      "8"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https://patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,7 +702,7 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "112"
+      "113"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
