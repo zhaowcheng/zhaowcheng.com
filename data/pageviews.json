@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1730"
+      "1734"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2559"
+      "2561"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1545"
+      "1548"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "528"
+      "530"
     ],
     [
       "/resume.pdf",
@@ -26,59 +26,59 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1097"
+      "1103"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "385"
+      "387"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "218"
+      "220"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "374"
+      "377"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "735"
+      "740"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "362"
+      "364"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "225"
+      "227"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "321"
+      "323"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1420"
+      "1431"
     ],
     [
       "/posts/date-examples/",
-      "1044"
+      "1047"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "235"
+      "238"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "247"
+      "249"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "200"
+      "201"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "392"
+      "396"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "926"
+      "928"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1232"
+      "1238"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "628"
+      "633"
     ],
     [
       "/posts/postgresql-encoding/",
-      "343"
+      "349"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "184"
+      "185"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "281"
+      "286"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "262"
+      "264"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "162"
+      "164"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "184"
+      "187"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "196"
+      "198"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,7 +702,7 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "124"
+      "129"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
@@ -806,6 +806,22 @@
     ],
     [
       "/posts/patroni-configuration/%5BPostgreSQL%20parameters%20controlled%20by%20Patroni%5D(https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
+      "2"
+    ],
+    [
+      "/posts/introduction-to-xbot/,36.157.155.18",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-11-classes/%7Burl%7D",
+      "1"
+    ],
+    [
+      "/posts/sed-examples/%7Burl%7D",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-3-variable-type/%7Burl%7D",
       "1"
     ]
   ]
