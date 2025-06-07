@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "1738"
+      "1739"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2570"
+      "2573"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1558"
+      "1560"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -22,7 +22,7 @@
     ],
     [
       "/resume.pdf",
-      "313"
+      "314"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "741"
+      "742"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -54,11 +54,11 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "324"
+      "325"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1458"
+      "1461"
     ],
     [
       "/posts/date-examples/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1265"
+      "1269"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "654"
+      "656"
     ],
     [
       "/posts/postgresql-encoding/",
-      "355"
+      "356"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -582,7 +582,7 @@
     ],
     [
       "/posts/introduction-to-xbot/%7Burl%7D",
-      "9"
+      "10"
     ],
     [
       "/posts/introduction-to-fpm/%7Burl%7D",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "174"
+      "180"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "195"
+      "198"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "211"
+      "215"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -674,7 +674,7 @@
     ],
     [
       "/posts/postgresql-locale/%7Burl%7D",
-      "3"
+      "4"
     ],
     [
       "/posts/python-tutorial-7-flow-control/%7Burl%7D",
@@ -698,7 +698,7 @@
     ],
     [
       "/posts/postgresql-high-availability/%7Burl%7D",
-      "2"
+      "3"
     ],
     [
       "/posts/postgresql-configuration/",
