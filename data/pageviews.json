@@ -2,23 +2,23 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "448"
+      "449"
     ],
     [
       "/posts/sed-examples/",
-      "1740"
+      "1743"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2577"
+      "2580"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1565"
+      "1569"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "534"
+      "536"
     ],
     [
       "/resume.pdf",
@@ -26,59 +26,59 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1113"
+      "1115"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "387"
+      "388"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "221"
+      "222"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "378"
+      "379"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "742"
+      "743"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "365"
+      "366"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "229"
+      "230"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "325"
+      "326"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1464"
+      "1468"
     ],
     [
       "/posts/date-examples/",
-      "1048"
+      "1049"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "239"
+      "240"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "253"
+      "254"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "203"
+      "204"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "398"
+      "399"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "931"
+      "933"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1271"
+      "1278"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "658"
+      "665"
     ],
     [
       "/posts/postgresql-encoding/",
-      "357"
+      "359"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "191"
+      "192"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "291"
+      "292"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "276"
+      "278"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "182"
+      "184"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "199"
+      "204"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "217"
+      "225"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,11 +702,11 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "142"
+      "148"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
-      "6"
+      "7"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/%7Burl%7D",
@@ -894,6 +894,14 @@
     ],
     [
       "/posts/introduction-to-fpm/,47.82.60.181",
+      "1"
+    ],
+    [
+      "/posts/introduction-to-xbot/,47.82.60.8",
+      "1"
+    ],
+    [
+      "/posts/postgresql-high-availability/,47.82.61.52",
       "1"
     ]
   ]
