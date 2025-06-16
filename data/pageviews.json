@@ -2,23 +2,23 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "453"
+      "454"
     ],
     [
       "/posts/sed-examples/",
-      "1749"
+      "1750"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2600"
+      "2601"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1582"
+      "1586"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "539"
+      "540"
     ],
     [
       "/resume.pdf",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1301"
+      "1304"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "299"
+      "300"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "286"
+      "287"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "248"
+      "250"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
