@@ -2,71 +2,71 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "460"
+      "463"
     ],
     [
       "/posts/sed-examples/",
-      "1755"
+      "1758"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2611"
+      "2618"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1598"
+      "1603"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "541"
+      "543"
     ],
     [
       "/resume.pdf",
-      "321"
+      "322"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1127"
+      "1131"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "392"
+      "393"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "223"
+      "224"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "382"
+      "383"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "750"
+      "753"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "372"
+      "373"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "230"
+      "231"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "326"
+      "327"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1490"
+      "1494"
     ],
     [
       "/posts/date-examples/",
-      "1049"
+      "1050"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "241"
+      "243"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
@@ -74,11 +74,11 @@
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "204"
+      "205"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "402"
+      "403"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "941"
+      "943"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1312"
+      "1317"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "696"
+      "699"
     ],
     [
       "/posts/postgresql-encoding/",
-      "373"
+      "378"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "197"
+      "199"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "305"
+      "307"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "295"
+      "296"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "195"
+      "198"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "228"
+      "233"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,11 +650,11 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "266"
+      "274"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
-      "9"
+      "10"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https://patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,7 +702,7 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "173"
+      "180"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
@@ -798,7 +798,7 @@
     ],
     [
       "/posts/patroni-configuration/%5BPostgreSQL%20parameters%20controlled%20by%20Patroni%5D(https://patroni.readthedocs.io/en/latest/patroni_configuration.html",
-      "1"
+      "2"
     ],
     [
       "/posts/ssl-notes/%7Burl%7D",
@@ -978,6 +978,22 @@
     ],
     [
       "/posts/python-tutorial-1-introduction/,39.171.216.74",
+      "1"
+    ],
+    [
+      "/posts/postgresql-version-policy/,47.82.62.35",
+      "1"
+    ],
+    [
+      "/posts/the-searching-order-of-elf-file-deps/,202.119.41.97",
+      "1"
+    ],
+    [
+      "/posts/postgresql-configuration/,112.247.224.2",
+      "1"
+    ],
+    [
+      "/posts/python-tutorial-9-input-and-output/%7Burl%7D",
       "1"
     ]
   ]
