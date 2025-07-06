@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "1788"
+      "1789"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2656"
+      "2657"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1641"
+      "1643"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1542"
+      "1543"
     ],
     [
       "/posts/date-examples/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "959"
+      "960"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1376"
+      "1378"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,7 +506,7 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "751"
+      "756"
     ],
     [
       "/posts/postgresql-encoding/",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "216"
+      "218"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "337"
+      "338"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "331"
+      "335"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "215"
+      "216"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "265"
+      "267"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "321"
+      "326"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,7 +702,7 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "253"
+      "257"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
@@ -806,7 +806,7 @@
     ],
     [
       "/posts/patroni-configuration/%5BPostgreSQL%20parameters%20controlled%20by%20Patroni%5D(https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
-      "3"
+      "4"
     ],
     [
       "/posts/introduction-to-xbot/,36.157.155.18",
