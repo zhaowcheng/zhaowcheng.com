@@ -2,39 +2,39 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "478"
+      "480"
     ],
     [
       "/posts/sed-examples/",
-      "1794"
+      "1796"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2679"
+      "2683"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1658"
+      "1661"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "556"
+      "557"
     ],
     [
       "/resume.pdf",
-      "334"
+      "335"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1174"
+      "1177"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "409"
+      "410"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "235"
+      "236"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -42,11 +42,11 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "776"
+      "777"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "384"
+      "386"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
@@ -54,7 +54,7 @@
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "338"
+      "340"
     ],
     [
       "/posts/introduction-to-fpm/",
@@ -62,23 +62,23 @@
     ],
     [
       "/posts/date-examples/",
-      "1059"
+      "1060"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "254"
+      "256"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "267"
+      "268"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "215"
+      "216"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "414"
+      "415"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "961"
+      "962"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1401"
+      "1405"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "772"
+      "775"
     ],
     [
       "/posts/postgresql-encoding/",
-      "428"
+      "429"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "226"
+      "228"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "346"
+      "347"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "349"
+      "354"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "219"
+      "221"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "276"
+      "278"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "338"
+      "343"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -1094,11 +1094,15 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,101.70.107.29",
-      "1"
+      "2"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.60.45",
       "1"
+    ],
+    [
+      "/posts/compatibility-glibc-and-linux-kernel/",
+      "3"
     ]
   ]
 }
