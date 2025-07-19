@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "1802"
+      "1803"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2695"
+      "2697"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1667"
+      "1669"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1188"
+      "1190"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "779"
+      "781"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -70,7 +70,7 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "270"
+      "271"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "968"
+      "969"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1419"
+      "1422"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,7 +506,7 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "804"
+      "810"
     ],
     [
       "/posts/postgresql-encoding/",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "364"
+      "365"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "361"
+      "363"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,11 +702,11 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "271"
+      "276"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
-      "13"
+      "14"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/%7Burl%7D",
@@ -1102,7 +1102,7 @@
     ],
     [
       "/posts/compatibility-glibc-and-linux-kernel/",
-      "33"
+      "37"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.60.33",
@@ -1114,7 +1114,7 @@
     ],
     [
       "/posts/gcc-compilation-process/",
-      "8"
+      "10"
     ],
     [
       "/posts/gcc-compilation-process/%7Burl%7D",
