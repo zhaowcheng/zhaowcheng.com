@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "483"
+      "484"
     ],
     [
       "/posts/sed-examples/",
-      "1803"
+      "1804"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2697"
+      "2699"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1669"
+      "1670"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1190"
+      "1193"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -58,11 +58,11 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1568"
+      "1569"
     ],
     [
       "/posts/date-examples/",
-      "1061"
+      "1062"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "810"
+      "812"
     ],
     [
       "/posts/postgresql-encoding/",
-      "443"
+      "444"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "365"
+      "367"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "290"
+      "292"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "363"
+      "364"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,7 +702,7 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "276"
+      "277"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
@@ -1102,7 +1102,7 @@
     ],
     [
       "/posts/compatibility-glibc-and-linux-kernel/",
-      "37"
+      "42"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.60.33",
@@ -1114,10 +1114,14 @@
     ],
     [
       "/posts/gcc-compilation-process/",
-      "10"
+      "12"
     ],
     [
       "/posts/gcc-compilation-process/%7Burl%7D",
+      "1"
+    ],
+    [
+      "/posts/compatibility-glibc-and-linux-kernel/,180.164.145.65",
       "1"
     ]
   ]
