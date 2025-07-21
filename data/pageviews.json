@@ -6,15 +6,15 @@
     ],
     [
       "/posts/sed-examples/",
-      "1804"
+      "1805"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2699"
+      "2702"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1670"
+      "1671"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1193"
+      "1194"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "781"
+      "782"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1569"
+      "1570"
     ],
     [
       "/posts/date-examples/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1422"
+      "1423"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "812"
+      "815"
     ],
     [
       "/posts/postgresql-encoding/",
-      "444"
+      "445"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "292"
+      "296"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "364"
+      "368"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -1102,7 +1102,7 @@
     ],
     [
       "/posts/compatibility-glibc-and-linux-kernel/",
-      "42"
+      "44"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.60.33",
@@ -1114,7 +1114,7 @@
     ],
     [
       "/posts/gcc-compilation-process/",
-      "12"
+      "14"
     ],
     [
       "/posts/gcc-compilation-process/%7Burl%7D",
