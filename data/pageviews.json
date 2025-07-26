@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1818"
+      "1821"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2716"
+      "2719"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1682"
+      "1690"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "567"
+      "570"
     ],
     [
       "/resume.pdf",
@@ -26,59 +26,59 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1201"
+      "1203"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "413"
+      "415"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "242"
+      "244"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "409"
+      "411"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "784"
+      "786"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "391"
+      "393"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "245"
+      "247"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "346"
+      "348"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1579"
+      "1586"
     ],
     [
       "/posts/date-examples/",
-      "1067"
+      "1069"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "262"
+      "264"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "276"
+      "278"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "222"
+      "224"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "420"
+      "422"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "975"
+      "977"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1436"
+      "1439"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "830"
+      "835"
     ],
     [
       "/posts/postgresql-encoding/",
-      "452"
+      "460"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "238"
+      "241"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "369"
+      "373"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "377"
+      "380"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "239"
+      "243"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "309"
+      "315"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "386"
+      "391"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,7 +702,7 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "292"
+      "297"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
@@ -1102,7 +1102,7 @@
     ],
     [
       "/posts/compatibility-glibc-and-linux-kernel/",
-      "62"
+      "68"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.60.33",
@@ -1114,7 +1114,7 @@
     ],
     [
       "/posts/gcc-compilation-process/",
-      "29"
+      "35"
     ],
     [
       "/posts/gcc-compilation-process/%7Burl%7D",
