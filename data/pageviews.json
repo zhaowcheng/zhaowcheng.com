@@ -10,31 +10,31 @@
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2719"
+      "2720"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1690"
+      "1694"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "570"
+      "571"
     ],
     [
       "/resume.pdf",
-      "340"
+      "342"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1203"
+      "1205"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "415"
+      "416"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "244"
+      "246"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
@@ -42,7 +42,7 @@
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "786"
+      "787"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
@@ -50,7 +50,7 @@
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "247"
+      "248"
     ],
     [
       "/posts/python-tutorial-4-string/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1586"
+      "1588"
     ],
     [
       "/posts/date-examples/",
@@ -70,7 +70,7 @@
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "278"
+      "279"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1439"
+      "1441"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "835"
+      "839"
     ],
     [
       "/posts/postgresql-encoding/",
-      "460"
+      "461"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "380"
+      "381"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -570,7 +570,7 @@
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/%7Burl%7D",
-      "1"
+      "2"
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/%7Burl%7D",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "243"
+      "245"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "315"
+      "319"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "391"
+      "392"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -678,7 +678,7 @@
     ],
     [
       "/posts/python-tutorial-7-flow-control/%7Burl%7D",
-      "1"
+      "2"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/%7Burl%7D",
@@ -1102,7 +1102,7 @@
     ],
     [
       "/posts/compatibility-glibc-and-linux-kernel/",
-      "68"
+      "70"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.60.33",
@@ -1110,15 +1110,15 @@
     ],
     [
       "/posts/compatibility-glibc-and-linux-kernel/%7Burl%7D",
-      "1"
+      "2"
     ],
     [
       "/posts/gcc-compilation-process/",
-      "35"
+      "37"
     ],
     [
       "/posts/gcc-compilation-process/%7Burl%7D",
-      "1"
+      "2"
     ],
     [
       "/posts/compatibility-glibc-and-linux-kernel/,180.164.145.65",
@@ -1130,6 +1130,10 @@
     ],
     [
       "/posts/postgresql-high-availability/,183.251.103.224",
+      "1"
+    ],
+    [
+      "/posts/postgresql-high-availability/,121.37.106.58",
       "1"
     ]
   ]
