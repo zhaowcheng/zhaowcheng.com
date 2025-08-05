@@ -2,19 +2,19 @@
   "rows": [
     [
       "/stylesheets/resumecards.css",
-      "493"
+      "494"
     ],
     [
       "/posts/sed-examples/",
-      "1835"
+      "1836"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2747"
+      "2752"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1725"
+      "1726"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
@@ -26,7 +26,7 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1221"
+      "1223"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
@@ -58,7 +58,7 @@
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1603"
+      "1607"
     ],
     [
       "/posts/date-examples/",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "982"
+      "983"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1466"
+      "1470"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "868"
+      "876"
     ],
     [
       "/posts/postgresql-encoding/",
-      "492"
+      "498"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "251"
+      "252"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "399"
+      "400"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "253"
+      "254"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "333"
+      "336"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "420"
+      "424"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -702,7 +702,7 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "318"
+      "319"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
@@ -1102,7 +1102,7 @@
     ],
     [
       "/posts/compatibility-glibc-and-linux-kernel/",
-      "92"
+      "93"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.60.33",
@@ -1114,7 +1114,7 @@
     ],
     [
       "/posts/gcc-compilation-process/",
-      "56"
+      "57"
     ],
     [
       "/posts/gcc-compilation-process/%7Burl%7D",
@@ -1146,6 +1146,10 @@
     ],
     [
       "/posts/introduction-to-fpm/,117.129.48.109",
+      "1"
+    ],
+    [
+      "/posts/introduction-to-xbot/,47.82.11.31",
       "1"
     ]
   ]
