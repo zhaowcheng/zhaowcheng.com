@@ -6,19 +6,19 @@
     ],
     [
       "/posts/sed-examples/",
-      "1842"
+      "1843"
     ],
     [
       "/posts/a-packaging-method-with-its-own-deps/",
-      "2766"
+      "2768"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/",
-      "1746"
+      "1749"
     ],
     [
       "/posts/python-tutorial-12-modules-and-packages/",
-      "579"
+      "580"
     ],
     [
       "/resume.pdf",
@@ -26,59 +26,59 @@
     ],
     [
       "/posts/the-searching-order-of-elf-file-deps/",
-      "1231"
+      "1234"
     ],
     [
       "/posts/python-tutorial-2-install-and-usage/",
-      "420"
+      "422"
     ],
     [
       "/posts/python-tutorial-7-flow-control/",
-      "250"
+      "251"
     ],
     [
       "/posts/python-tutorial-10-exceptions/",
-      "416"
+      "417"
     ],
     [
       "/posts/python-tutorial-9-input-and-output/",
-      "797"
+      "798"
     ],
     [
       "/posts/python-tutorial-1-introduction/",
-      "396"
+      "397"
     ],
     [
       "/posts/python-tutorial-6-dict-and-set/",
-      "252"
+      "253"
     ],
     [
       "/posts/python-tutorial-4-string/",
-      "352"
+      "353"
     ],
     [
       "/posts/introduction-to-fpm/",
-      "1621"
+      "1623"
     ],
     [
       "/posts/date-examples/",
-      "1073"
+      "1074"
     ],
     [
       "/posts/python-tutorial-3-variable-type/",
-      "268"
+      "269"
     ],
     [
       "/posts/python-tutorial-5-list-and-tuple/",
-      "281"
+      "282"
     ],
     [
       "/posts/python-tutorial-8-function-definition/",
-      "226"
+      "227"
     ],
     [
       "/posts/python-tutorial-11-classes/",
-      "427"
+      "428"
     ],
     [
       "/posts/python-tutorial-11-classes/?giscus=ef1433f666f3ba91e1c2f6b9ehMxQ1utT3pwLy4slT7rx%2F%2F7cVxzPJV9LdwHDAARFTZdsWAnBeHsadVVy8LKb4Tjd%2FIGVGpAziJBFTQtksVxa6wYx6M1mRyL1wFjuWrpV9jZSLQWAs2sdgXCXwA%3D",
@@ -90,7 +90,7 @@
     ],
     [
       "/posts/python-advanced-deepget-and-deepset/",
-      "988"
+      "990"
     ],
     [
       "/posts/python-tutorial-4-string/?",
@@ -318,7 +318,7 @@
     ],
     [
       "/posts/introduction-to-xbot/",
-      "1490"
+      "1492"
     ],
     [
       "/posts/sed-examples/,114.119.128.55",
@@ -506,11 +506,11 @@
     ],
     [
       "/posts/postgresql-locale/",
-      "892"
+      "893"
     ],
     [
       "/posts/postgresql-encoding/",
-      "504"
+      "507"
     ],
     [
       "/posts/postgresql-encoding/,114.119.134.3",
@@ -522,7 +522,7 @@
     ],
     [
       "/posts/ssl-notes/",
-      "255"
+      "258"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.10.98",
@@ -530,7 +530,7 @@
     ],
     [
       "/posts/etcd-tls/",
-      "398"
+      "400"
     ],
     [
       "/posts/python-tutorial-1-introduction/,47.82.11.64",
@@ -562,7 +562,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/",
-      "409"
+      "411"
     ],
     [
       "/posts/classification-of-chinese-os-and-cpu/,112.41.10.209",
@@ -590,7 +590,7 @@
     ],
     [
       "/posts/postgresql-version-policy/",
-      "261"
+      "262"
     ],
     [
       "/posts/postgresql-locale/,114.119.152.139",
@@ -638,7 +638,7 @@
     ],
     [
       "/posts/postgresql-high-availability/",
-      "346"
+      "348"
     ],
     [
       "/posts/ssl-notes/,114.119.134.3",
@@ -650,7 +650,7 @@
     ],
     [
       "/posts/patroni-configuration/",
-      "445"
+      "449"
     ],
     [
       "/posts/patroni-configuration/[PostgreSQL%20parameters%20controlled%20by%20Patroni](https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
@@ -670,7 +670,7 @@
     ],
     [
       "/posts/kvm-bridge-by-iptables/%7Burl%7D",
-      "7"
+      "8"
     ],
     [
       "/posts/postgresql-locale/%7Burl%7D",
@@ -702,7 +702,7 @@
     ],
     [
       "/posts/postgresql-configuration/",
-      "328"
+      "333"
     ],
     [
       "/posts/postgresql-configuration/%7Burl%7D",
@@ -802,11 +802,11 @@
     ],
     [
       "/posts/ssl-notes/%7Burl%7D",
-      "5"
+      "6"
     ],
     [
       "/posts/patroni-configuration/%5BPostgreSQL%20parameters%20controlled%20by%20Patroni%5D(https:/patroni.readthedocs.io/en/latest/patroni_configuration.html",
-      "5"
+      "6"
     ],
     [
       "/posts/introduction-to-xbot/,36.157.155.18",
@@ -1102,7 +1102,7 @@
     ],
     [
       "/posts/compatibility-glibc-and-linux-kernel/",
-      "113"
+      "114"
     ],
     [
       "/posts/introduction-to-fpm/,47.82.60.33",
@@ -1114,7 +1114,7 @@
     ],
     [
       "/posts/gcc-compilation-process/",
-      "74"
+      "75"
     ],
     [
       "/posts/gcc-compilation-process/%7Burl%7D",
